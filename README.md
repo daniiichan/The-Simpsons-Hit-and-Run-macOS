@@ -1,4 +1,4 @@
-# 🍩 The Simpsons: Hit & Run — Native macOS Port This content is HIGLY ILLEGAL
+# 🍩 The Simpsons: Hit & Run — Native macOS Port
 
 [![Platform: macOS](https://img.shields.io/badge/Platform-macOS%20%28Apple%20Silicon%20%7C%20Intel%29-blue.svg)](#)
 [![Architecture: arm64 / x86_64](https://img.shields.io/badge/Architecture-arm64%20%7C%20x86__64-orange.svg)](#)
